@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    // ...existing options...
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  },
+  "include": [
+    "src",
+    "vite-env.d.ts"
+  ]
+}
